@@ -1,6 +1,6 @@
 # Olá! Me Chamo **Richard Neri** 👋😄
 
-- <p style="font-size: 48px">🌱 Atualmente estou aprendendo Python</p>
+- <p style="font-size: 48px;">🌱 Atualmente estou aprendendo Python</p>
 - 🎓 **Estou cursando Ciência da Computação**
 - 😄 **Pronouns: ele/dele**
 ##
