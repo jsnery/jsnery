@@ -1,4 +1,4 @@
-# Olá! Me Chamo Richard Neri 👋😄
+# Olá! Me Chamo **Richard Neri** 👋😄
 
 - 🌱 Atualmente estou aprendendo Python
 - 🎓 Estou cursando Ciência da Computação
@@ -11,7 +11,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <p><img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</p>
 </div>
   
 ##
