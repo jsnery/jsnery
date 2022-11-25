@@ -3,11 +3,6 @@
 - 🌱 **Atualmente estou aprendendo Python**
 - 🎓 **Estou cursando Ciência da Computação**
 - 😄 **Pronomes: ele/dele**
-<div align="right">
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
-  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a>
-</div>
 
 ##
 
@@ -17,6 +12,12 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark"/>
 </div>
   
+<div style="display: inline_block"><br>
+  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
+  <img align="center" alt="Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg">
+</div>
+
 ##
 
 <div align="center"> 
