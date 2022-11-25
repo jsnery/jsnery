@@ -12,7 +12,9 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <p><a href="https://github.com/jsnery?tab=repositories&q=&type=&language=python&sort="><img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a><b>Python</b></p>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" target="_blank"></a>
+  <a href="#" target="_blank"><img src="https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white" target="_blank"></a>
 </div>
   
 ##
@@ -24,6 +26,8 @@
   <a href = "mailto:richardmatq@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
+
+
 
 <!--
 **jsnery/jsnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
