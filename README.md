@@ -1,4 +1,4 @@
-## Olá! Me Chamo Richard Neri 👋😄
+# Olá! Me Chamo Richard Neri 👋😄
 
 - 🌱 Atualmente estou aprendendo Python
 - 🎓 Estou cursando Ciência da Computação
