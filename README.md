@@ -4,6 +4,8 @@
 - 🎓 Estou cursando Ciência da Computação
 - 😄 Pronouns: ele/dele
 
+##
+
 <div align="center">
   <a href="https://github.com/jsnery">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
@@ -11,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <p><img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">Python</p>
+  <p><img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b></p>
 </div>
   
 ##
