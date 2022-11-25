@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/jsnery">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&layout=compact&langs_count=5&theme=midnight-purple"/>
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&layout=compact&langs_count=5&theme=midnight-purple&count_private=true"/>
 </div>
 
 <div style="display: inline_block"><br>
