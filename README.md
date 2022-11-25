@@ -6,8 +6,8 @@
 
 <div align="center">
   <a href="https://github.com/jsnery">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
-  <img width="100%" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&layout=compact&langs_count=5&theme=midnight-purple"/>
+  <img height="1300em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&layout=compact&langs_count=5&theme=midnight-purple"/>
 </div>
 
 <div style="display: inline_block"><br>
