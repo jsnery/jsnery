@@ -1,8 +1,8 @@
 # Olá! Me Chamo **Richard Neri** 👋😄
 
-### - 🌱 Atualmente estou aprendendo Python
-### - 🎓 Estou cursando Ciência da Computação
-### - 😄 Pronouns: ele/dele
+- 🌱 **Atualmente estou aprendendo Python**
+- 🎓 **Estou cursando Ciência da Computação**
+- 😄 **Pronouns: ele/dele**
 ##
 
 <div align="center">
