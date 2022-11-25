@@ -1,10 +1,8 @@
 ### Olá, Me Chamo Richard Neri 👋😄
 
 - 🌱 Atualmente estou aprendendo Python
-- 🔭 Atualmente estou cursando Ciência da Computação
-<html>
-NAda
-</html>
+- 🎓 Estou cursando Ciência da Computação
+
 <!--
 **jsnery/jsnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
