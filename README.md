@@ -13,7 +13,7 @@
 </div>
 
 <div style="display: inline_block"><br>
-  <p><img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"><b>Python</b></p>
+  <p><a href="https://github.com/jsnery?tab=repositories&q=&type=&language=python&sort="><img align="center" alt="Richard-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a><b>Python</b></p>
 </div>
   
 ##
