@@ -12,7 +12,7 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark"/>
 </div>
   
-<div style="display: inline_block"><br>
+<div style="display: inline_block" align="right"><br>
   <a href="#"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="#"><img align="center" alt="Linux" height="30" width="30" src="https://preview.redd.it/pj6ak7gt81f71.png?width=640&crop=smart&auto=webp&s=5423c7ea8953a8e03fbf4faae256963df22b2ff3"></a>
   <a href="#"><img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
