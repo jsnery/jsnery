@@ -1,7 +1,8 @@
-### Olá, Me Chamo Richard Neri 👋😄
+## Olá! Me Chamo Richard Neri 👋😄
 
 - 🌱 Atualmente estou aprendendo Python
 - 🎓 Estou cursando Ciência da Computação
+- 😄 Pronouns: ele/dele
 
 <!--
 **jsnery/jsnery** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
