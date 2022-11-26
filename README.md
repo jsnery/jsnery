@@ -3,6 +3,8 @@
   <p align="center">Estudo estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de desenvolvedor Python.
 </div>
 
+##
+
 <div style="display: inline_block" align="right"><br>
   <a href="#"><img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"></a>
   <a href="#"><img align="center" alt="Linux" height="30" width="30" src="https://preview.redd.it/pj6ak7gt81f71.png?width=640&crop=smart&auto=webp&s=5423c7ea8953a8e03fbf4faae256963df22b2ff3"></a>
@@ -10,6 +12,8 @@
   <a href="#"><img align="center" alt="Descomplica" height="30" width="30" src="https://theme.zdassets.com/theme_assets/147534/cf3e550bb9f168d26d91ee0ed5dc8e11e62dc74d.png"></a>
   <a href="#"><img align="center" alt="Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a>
 </div>
+
+##
 
 <div align="center">
   <a href="https://beacons.ai/richardneri">
