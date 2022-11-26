@@ -1,6 +1,6 @@
 <div>
-  <h1 align="center">Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 😃️</h1>
-  <p align="center">Estudo estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou desenvolvedor Web a mais de 5 anos.
+  <h1 align="center">Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 👋😄</h1>
+  <p align="center">Estudo estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de desenvolvedor Python.
 </div>
 
 ##
