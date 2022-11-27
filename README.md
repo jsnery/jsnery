@@ -10,19 +10,13 @@
   <a href="https://descomplica.com.br/faculdade/"><img align="center" alt="Descomplica" height="30" width="29" src="https://theme.zdassets.com/theme_assets/147534/cf3e550bb9f168d26d91ee0ed5dc8e11e62dc74d.png"></a>
   <a href="#"><img align="center" alt="Chrome" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg"></a>
 </div>
-
-##
-
+<hr>
 <div align="center">
   <a href="https://beacons.ai/richardneri">
   <img height="170em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark"/>
 </div>
-  
-
-
-##
-
+<hr>
 <div align="center"> 
   <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/richard_neri" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
