@@ -1,5 +1,5 @@
 <div>
-    <h1 align="center">Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 👋😄</h1>
+    <h2 align="center" style="font-size: 32px;">Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 👋😄</h2>
 </div>
 <hr>
 <div style="display: inline_block" align="center">
