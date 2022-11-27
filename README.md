@@ -4,7 +4,7 @@
 <hr>
 <div style="display: inline_block" align="center"><br>
   <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de desenvolvedor.
-  <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="40" src="/scr/python.svg"></a>
+  <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="40" src="./scr/python.svg"></a>
   <a href="https://pop.system76.com/"><img align="center" alt="Linux" height="30" width="30" src="https://static-00.iconduck.com/assets.00/pop-os-icon-512x512-j4ghbj1n.png"></a>
   <a href="#"><img align="center" alt="VSCODE" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
   <a href="https://descomplica.com.br/faculdade/"><img align="center" alt="Descomplica" height="30" width="29" src="https://theme.zdassets.com/theme_assets/147534/cf3e550bb9f168d26d91ee0ed5dc8e11e62dc74d.png"></a>
