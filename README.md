@@ -11,8 +11,8 @@
   #
 
   <div align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=24" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark&cache_seconds=1000&border_radius=24" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=24&custom_title='Status do GitHub'" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark&cache_seconds=1000&border_radius=24    " />
   </div>
 
   #
