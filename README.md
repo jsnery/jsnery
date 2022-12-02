@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"><b>Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 👋😄</b></h1>
   <div style="display: inline_block" align="center">
-      <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de desenvolvedor.</p>
+      <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de desenvolvedor. <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" target="_blank"></p>
       <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="40" src="./scr/python.svg"></a>
       <a href="https://pop.system76.com/"><img align="center" alt="Linux" height="30" width="30" src="./scr/pop-os.png"></a>
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
@@ -10,7 +10,7 @@
 
   #
 
-  <div align="center"><p><img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" target="_blank"></p>
+  <div align="center">
       <img height="210em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=24&custom_title=Status%20do%20GitHub" />
       <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark&cache_seconds=1000&border_radius=24&custom_title=Top%20Linguagens" />
   </div>
