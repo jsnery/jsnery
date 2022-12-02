@@ -8,14 +8,14 @@
       <a href="https://descomplica.com.br/"><img align="center" alt="Descomplica" height="30" width="29" src="./scr/faculdade.png"></a>
   </div>
 
-  #
+  <hr>
 
   <div align="center">
       <img height="210em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=24&custom_title=Status%20do%20GitHub" />
       <img height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark&cache_seconds=1000&border_radius=24&custom_title=Top%20Linguagens" />
   </div>
 
-  #
+  <hr>
 
   <div align="center">
       <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="./scr/tube.svg" target="_blank"></a>
@@ -26,9 +26,9 @@
       
   </div>
 
-  #
+  <hr>
 
-  <div>
+  <div align="center">
       <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
   </div>
 </div>
