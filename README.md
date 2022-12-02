@@ -17,12 +17,12 @@
 
   #
 
-  <div  width="100%">
+  <spam>
       <a align="center" href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="./scr/tube.svg" target="_blank"></a>
       <a align="center" href="https://instagram.com/richard_neri" target="_blank"><img src="./scr/gram.svg" target="_blank"></a>
       <a align="center" href="https://twitter.com/richard_nerii" target="_blank"><img src="./scr/twitter.svg" target="_blank"></a>
       <a align="center" href="mailto:richardmatq@gmail.com"><img src="./scr/gmail.svg" target="_blank"></a>
       <a align="center" href="https://www.linkedin.com/in/richardneri" target="_blank"><img src="./scr/linkedin.svg" target="_blank"></a>
       <a align="right"> <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" alt="jsnery" /> </a>
-  </div>
+  </spam>
 </div>
