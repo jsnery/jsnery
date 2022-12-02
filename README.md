@@ -25,4 +25,9 @@
       <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img src="./scr/linkedin.svg" target="_blank"></a>
       
   </div>
+  <div>
+      <p align="center">
+        <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden"/>
+      </p>
+  </div>
 </div>
