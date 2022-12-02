@@ -23,5 +23,5 @@
       <a href="https://twitter.com/richard_nerii" target="_blank"><img src="./scr/twitter.svg" target="_blank"></a>
       <a href="mailto:richardmatq@gmail.com"><img src="./scr/gmail.svg" target="_blank"></a>
       <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img src="./scr/linkedin.svg" target="_blank"></a>
-  </spam><a align="right"> <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" alt="jsnery" /> </a>
+  </spam><a align="right" src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat"/> </a>
 </div>
