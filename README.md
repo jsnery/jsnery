@@ -7,7 +7,7 @@
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
       <a href="https://descomplica.com.br/"><img align="center" alt="Descomplica" height="30" width="29" src="./scr/faculdade.png"></a>
       <br>
-      <a><img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" target="_blank"></a>
+      <p><img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" target="_blank"></p>
   </div>
 
   #
