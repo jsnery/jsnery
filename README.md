@@ -10,8 +10,8 @@
   </div>
   <hr size="1">
   <div align="center">
-      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=10&custom_title=Status%20do%20GitHub&hide_border=true" />
-      <img hidden height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=3&theme=github_dark&cache_seconds=1000&border_radius=10&custom_title=Top%20Linguagens&hide_border=true" />
+      <img height="210em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=15&custom_title=Status%20do%20GitHub&hide_border=true&bg_color=30,e96443,904e95" />
+      <img hidden height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=3&theme=github_dark&cache_seconds=1000&border_radius=15&custom_title=Top%20Linguagens&hide_border=true&bg_color=30,e96443,904e95" />
   </div>
   <hr size="1">
   <div align="center">
