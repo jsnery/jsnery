@@ -13,7 +13,7 @@
       <img height="210em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&cache_seconds=1000&border_radius=24&custom_title=Status%20do%20GitHub" />
       <!-- <img hidden height="210em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=5&theme=github_dark&cache_seconds=1000&border_radius=24&custom_title=Top%20Linguagens" /> -->
   </div>
-  <hr size="10" width="50%>
+  <hr size="1">
   <div align="center">
       <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="./scr/tube.svg" target="_blank"></a>
       <a href="https://instagram.com/richard_neri" target="_blank"><img src="./scr/gram.svg" target="_blank"></a>
