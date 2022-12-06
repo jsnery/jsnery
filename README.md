@@ -1,7 +1,7 @@
 <div>
   <h1 align="center"><b>Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 👋😄</b></h1>
   <div style="display: inline_block" align="center">
-      <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de desenvolvedor.</p>
+      <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de programador <a href="https://docs.python.org/3/"><b>Python!</b></a>.</p>
       <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="40" src="./scr/python.svg"></a>
       <a href="https://pop.system76.com/"><img align="center" alt="Linux" height="30" width="30" src="./scr/pop-os.png"></a>
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
