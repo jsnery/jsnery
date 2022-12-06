@@ -6,6 +6,7 @@
       <a href="https://pop.system76.com/"><img align="center" alt="Linux" height="30" width="30" src="./scr/pop-os.png"></a>
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
       <a href="https://descomplica.com.br/"><img align="center" alt="Descomplica" height="30" width="29" src="./scr/faculdade.png"></a>
+      <a href="https://desktop.github.com/"><img align="center" alt="Github" height="30" width="29" src="./scr/github.png"></a>
   </div>
   <hr>
   <div align="center">
