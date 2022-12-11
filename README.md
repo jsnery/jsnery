@@ -3,7 +3,7 @@
   <div style="display: inline_block" align="center">
       <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de programador <a href="https://docs.python.org/3/"><b>Python</b></a>.</p>
       <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="40" src="./scr/python.svg"></a>
-      <a href="https://docs.python.org/pt-br/3/library/sqlite3.html"><img align="center" alt="sqlite" height="30" width="40" src="./scr/sqlite.svg"></a>
+      <a href="https://docs.python.org/pt-br/3/library/sqlite3.html"><img align="center" alt="sqlite" height="30" width="30" src="./scr/sqlite.svg"></a>
       <a href="https://pop.system76.com/"><img align="center" alt="Linux" height="30" width="30" src="./scr/pop-os.png"></a>
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
       <a href="https://desktop.github.com/"><img align="center" alt="Github" height="30" width="40" src="./scr/github.svg"></a>
