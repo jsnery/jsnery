@@ -1,10 +1,10 @@
 <div>
   <h1 align="center"><b>Olá! Eu sou o <a href="https://beacons.ai/richardneri"><i>Richard</i></a> 👋😄</b></h1>
   <div style="display: inline_block" align="center">
-      <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de programador <a href="https://docs.python.org/3/"><b>Python</b></a>.</p>
+<!--       <p align="center">Estudo <b>Ciência da Computação</b> na <a href="https://descomplica.com.br/faculdade/"><i>Faculdade Descomplica.</i></a> Sou um projeto de programador <a href="https://docs.python.org/3/"><b>Python</b></a>.</p> -->
       <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="30" src="./scr/python.svg"></a>
       <a href="https://docs.python.org/pt-br/3/library/sqlite3.html"><img align="center" alt="sqlite" height="30" width="40" src="./scr/sqlite.svg"></a>
-      <a href="https://flask.palletsprojects.com"><img align="center" alt="flask" height="30" width="40" src="./scr/flask.svg"></a>
+<!--       <a href="https://flask.palletsprojects.com"><img align="center" alt="flask" height="30" width="40" src="./scr/flask.svg"></a> -->
       <a href="firebase.google.com/"><img align="center" alt="firebase" height="30" width="40" src="./scr/firebase.svg"></a>
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
       <a href="https://desktop.github.com/"><img align="center" alt="Github" height="30" width="40" src="./scr/github.svg"></a>
