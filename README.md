@@ -15,6 +15,46 @@
   </div>
   <hr size="1">
   <div align="center">
+  <h2><b>Meus Projetos</b></h2>
+</div>
+
+<div align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Nome do Projeto</th>
+        <th>Descrição</th>
+        <th>Tecnologias</th>
+        <th>Link</th>
+      </tr>
+    </thead>
+    <tbody>
+      <!-- Projeto 1 -->
+      <tr>
+        <td><b>Nome do Projeto 1</b></td>
+        <td>Breve descrição do projeto 1.</td>
+        <td>Python, Django, SQLite</td>
+        <td><a href="URL do projeto 1" target="_blank">Ver Projeto</a></td>
+      </tr>
+      <!-- Projeto 2 -->
+      <tr>
+        <td><b>Nome do Projeto 2</b></td>
+        <td>Breve descrição do projeto 2.</td>
+        <td>Python, Flask, Firebase</td>
+        <td><a href="URL do projeto 2" target="_blank">Ver Projeto</a></td>
+      </tr>
+      <!-- Projeto 3 -->
+      <tr>
+        <td><b>Nome do Projeto 3</b></td>
+        <td>Breve descrição do projeto 3.</td>
+        <td>JavaScript, React, Node.js</td>
+        <td><a href="URL do projeto 3" target="_blank">Ver Projeto</a></td>
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+  <div align="center">
       <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="./scr/tube.svg" target="_blank"></a>
       <a href="https://instagram.com/richard_neri" target="_blank"><img src="./scr/gram.svg" target="_blank"></a>
       <a href="https://twitter.com/richard_nerii" target="_blank"><img src="./scr/twitter.svg" target="_blank"></a>
