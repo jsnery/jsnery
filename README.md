@@ -32,17 +32,17 @@
         <tbody>
           <!-- Projeto 1 -->
           <tr>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><b>Nome do Projeto 1</b></td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Breve descrição do projeto 1.</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Python, Django, SQLite</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="URL do projeto 1" target="_blank" style="color: #3498db; text-decoration: none;">Ver Projeto</a></td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><b>Secure Chat</b></td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Webapp de chat privado.</td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Python, Flask, JSON, Firebase</td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="https://github.com/jsnery/secure-chat" target="_blank" style="color: #3498db; text-decoration: none;">Ver Projeto</a></td>
           </tr>
           <!-- Projeto 2 -->
           <tr>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><b>Nome do Projeto 2</b></td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Breve descrição do projeto 2.</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Python, Flask, Firebase</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="URL do projeto 2" target="_blank" style="color: #3498db; text-decoration: none;">Ver Projeto</a></td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><b>Portal Umadjaf</b></td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Portal de divugação e interação da mocidade da igreja Adjaf.</td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Python, Django, Html, Js</td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="#" target="_blank" style="color: #3498db; text-decoration: none;">Privado(Ainda)</a></td>
           </tr>
           <!-- Projeto 3 -->
           <tr>
