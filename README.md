@@ -10,19 +10,19 @@
   </div>
   <hr size="1">
   <div align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&border_radius=15&custom_title=Status%20do%20GitHub&hide_border=true&bg_color=30,000000,002c4a" alt="GitHub Stats" />
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=3&theme=github_dark&border_radius=15&custom_title=Top%20Linguagens&hide_border=true&bg_color=30,002c4a,000000" alt="Top Languages" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&border_radius=15&custom_title=Status%20do%20GitHub&hide_border=true&bg_color=30,000000,002c4a" />
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=3&theme=github_dark&border_radius=15&custom_title=Top%20Linguagens&hide_border=true&bg_color=30,002c4a,000000" />
   </div>
   <hr size="1">
   <div align="center">
-      <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="./scr/tube.svg" height="30" width="30" alt="YouTube"></a>
-      <a href="https://instagram.com/richard_neri" target="_blank"><img src="./scr/gram.svg" height="30" width="30" alt="Instagram"></a>
-      <a href="https://twitter.com/richard_nerii" target="_blank"><img src="./scr/twitter.svg" height="30" width="30" alt="Twitter"></a>
-      <a href="mailto:richardmatq@gmail.com"><img src="./scr/gmail.svg" height="30" width="30" alt="Gmail"></a>
-      <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img src="./scr/linkedin.svg" height="30" width="30" alt="LinkedIn"></a>
+      <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank"><img src="./scr/tube.svg" target="_blank"></a>
+      <a href="https://instagram.com/richard_neri" target="_blank"><img src="./scr/gram.svg" target="_blank"></a>
+      <a href="https://twitter.com/richard_nerii" target="_blank"><img src="./scr/twitter.svg" target="_blank"></a>
+      <a href="mailto:richardmatq@gmail.com"><img src="./scr/gmail.svg" target="_blank"></a>
+      <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img src="./scr/linkedin.svg" target="_blank"></a>
   </div>
   <hr size="1">
   <div align="center">
-      <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+      <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile%20views&color=0e75b6&style=flat" alt="jsnery"/>
   </div>
 </div>
