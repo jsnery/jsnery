@@ -4,7 +4,7 @@
       <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="30" width="30" src="./scr/python.svg"></a>
       <a href="https://docs.python.org/pt-br/3/library/sqlite3.html"><img align="center" alt="sqlite" height="30" width="40" src="./scr/sqlite.svg"></a>
       <a href="https://flask.palletsprojects.com"><img align="center" alt="flask" height="30" width="40" src="./scr/flask.svg"></a>
-      <a href="https://www.djangoproject.com/"><img align="center" alt="django" height="30" width="40" src="https://www.djangoproject.com/m/img/logos/django-logo-positive.svg"></a>
+      <a href="https://www.djangoproject.com/"><img align="center" alt="django" height="30" width="40" src=".scr/django.svg"></a>
       <a href="firebase.google.com/"><img align="center" alt="firebase" height="30" width="40" src="./scr/firebase.svg"></a>
       <a href="https://vscode.dev/"><img align="center" alt="Vscode" height="30" width="40" src="./scr/vscode.svg"></a>
       <a href="https://desktop.github.com/"><img align="center" alt="Github" height="30" width="40" src="./scr/github.svg"></a>
@@ -43,13 +43,6 @@
             <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Portal de divugação e interação da mocidade da igreja Adjaf.</td>
             <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Python, Django, Html, Js</td>
             <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="https://github.com/jsnery/portal-umadjaf" target="_blank" style="color: #3498db; text-decoration: none;">Ver Projeto</a></td>
-          </tr>
-          <!-- Projeto 3 -->
-          <tr>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><b>Nome do Projeto 3</b></td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Breve descrição do projeto 3.</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">JavaScript, React, Node.js</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="URL do projeto 3" target="_blank" style="color: #3498db; text-decoration: none;">Ver Projeto</a></td>
           </tr>
         </tbody>
       </table>
