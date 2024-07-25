@@ -42,7 +42,7 @@
             <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><b>Portal Umadjaf</b></td>
             <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Portal de divugação e interação da mocidade da igreja Adjaf.</td>
             <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;">Python, Django, Html, Js</td>
-            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="#" target="_blank" style="color: #3498db; text-decoration: none;">Privado(Ainda)</a></td>
+            <td style="padding: 12px; text-align: left; border-bottom: 1px solid #ddd;"><a href="https://github.com/jsnery/portal-umadjaf" target="_blank" style="color: #3498db; text-decoration: none;">Ver Projeto</a></td>
           </tr>
           <!-- Projeto 3 -->
           <tr>
