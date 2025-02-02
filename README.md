@@ -4,7 +4,6 @@
     <a href="https://docs.python.org/3/"><img align="center" alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a>
     <a href="https://www.djangoproject.com/"><img align="center" alt="Django" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"></a>
     <a href="https://vscode.dev/"><img align="center" alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"></a>
-    <a href="https://desktop.github.com/"><img align="center" alt="GitHub" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"></a>
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img align="center" alt="HTML" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
     <a href="https://aws.amazon.com/"><img align="center" alt="AWS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"></a>
 </div>
