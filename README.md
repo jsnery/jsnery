@@ -33,7 +33,7 @@
   <tbody>
     <tr class="table-row">
       <td class="table-data"><strong>ADJAF Digital</strong></td>
-      <td class="table-data">Portal de integração da comunidade da Assembléia de Deus do João Alves</td>
+      <td class="table-data">Site com sistema de gestão integrado.</td>
       <td class="table-data">Python, Django, HTML, JavaScript, CSS</td>
       <td class="table-data"><a href="https://adjaf.com/" class="table-link">Ver</a></td>
     </tr>
