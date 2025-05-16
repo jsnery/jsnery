@@ -32,16 +32,10 @@
   </thead>
   <tbody>
     <tr class="table-row">
-      <td class="table-data"><strong>Secure Chat</strong></td>
-      <td class="table-data">Webapp de chat privado.</td>
-      <td class="table-data">Python, Flask, JSON, Firebase</td>
-      <td class="table-data"><a href="#" class="table-link">Ver</a></td>
-    </tr>
-    <tr class="table-row">
-      <td class="table-data"><strong>Portal ADJAF</strong></td>
+      <td class="table-data"><strong>ADJAF Digital</strong></td>
       <td class="table-data">Portal de integração da comunidade da Assembléia de Deus do João Alves</td>
-      <td class="table-data">Python, Django, HTML, JavaScript</td>
-      <td class="table-data"><a href="#" class="table-link">Ver</a></td>
+      <td class="table-data">Python, Django, HTML, JavaScript, CSS</td>
+      <td class="table-data"><a href="https://adjaf.com/" class="table-link">Ver</a></td>
     </tr>
   </tbody>
 </table>
