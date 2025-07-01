@@ -74,7 +74,7 @@
       <td class="table-data"><strong>ADJAF Digital</strong></td>
       <td class="table-data">Website institucional com um sistema de gestão integrado para gerenciamento de conteúdo e funcionalidades específicas.</td>
       <td class="table-data">Python, Django, HTML, JavaScript (Básico), CSS (Básico), MySQL</td>
-      <td class="table-data" style="text-align: center;"><a href="https://adjaf.com/" class="table-link" target="_blank" rel="noopener noreferrer">Ver</a></td>
+      <td class="table-data" style="text-align: center;"><a href="https://adjaf.com.br/" class="table-link" target="_blank" rel="noopener noreferrer">Ver</a></td>
     </tr>
     <tr class="table-row">
       <td class="table-data"><strong>Projetos Particulares</strong></td>
