@@ -1,104 +1,87 @@
 <div align="center">
-  <h1>👋 Olá! Sou o Richard Neri</h1>
-  <p>Desenvolvedor Backend cursando Análise e Desenvolvimento de Sistemas (ADS). Tenho experiência no desenvolvimento de aplicações web, incluindo um site com sistema de gestão integrado. Atualmente, estou focado em aprimorar minhas habilidades e trabalhando em novos projetos pessoais.</p>
+  <h1>Hey, I'm Matheus Richard 👋</h1>
+  <p>Backend Engineer · Python · FastAPI · Django · REST APIs</p>
+  <p>
+    <a href="https://www.linkedin.com/in/richardneri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-richardneri-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
+    <a href="mailto:dev.richardneri@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.richardneri-EA4335?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPgogIDxwYXRoIGQ9Ik0xMyAydjhoOEwxMyAyeiIvPgogIDxwYXRoIGQ9Ik0xMiAySDZDNC45IDIgNCAyLjkgNCA0djE2YzAgMS4xLjkgMiAyIDJoMTJjMS4xIDAgMi0uOSAyLTJ2LThoLThWMnptLTMgMTFjMC0xLjY1NyAxLjM0My0zIDMtM3MzIDEuMzQzIDMgMy0xLjM0MyAzLTMgMy0zLTEuMzQzLTMtM3oiLz4KPC9zdmc+Cg==&logoColor=white"></a>
+    <a href="https://adjaf.com.br"><img alt="Live Project" src="https://img.shields.io/badge/Live-adjaf.com.br-2D5016?style=flat&logo=googlechrome&logoColor=white"></a>
+  </p>
 </div>
 
 ---
 
-### 🛠️ Tecnologias e Ferramentas que Utilizo
+Python developer with **6 years of experience** building production systems — REST APIs, financial platforms, ERPs, and automation workflows. I specialize in backend architecture with Django and FastAPI, with a focus on async processing, third-party integrations, and systems that are built to last.
 
-<p align="center">Minha stack principal gira em torno do ecossistema Python para backend, mas também possuo conhecimentos em outras ferramentas e tecnologias essenciais para o desenvolvimento web moderno:</p>
-
-<div align="center" style="margin-bottom: 20px;">
-  <h4 style="margin-bottom: 10px;">Linguagens de Programação</h4>
-  <a href="https://docs.python.org/3/" title="Python"><img alt="Python" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 10px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript (Básico)"><img alt="JavaScript" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px;"></a>
-</div>
-
-<div align="center" style="margin-bottom: 20px;">
-  <h4 style="margin-bottom: 10px;">Frameworks e Bibliotecas</h4>
-  <a href="https://www.djangoproject.com/" title="Django"><img alt="Django" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="margin: 10px;"></a>
-  <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img alt="FastAPI" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="margin: 10px;"></a>
-</div>
-
-<div align="center" style="margin-bottom: 20px;">
-  <h4 style="margin-bottom: 10px;">Frontend (Conhecimento Básico)</h4>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5 (Básico)"><img alt="HTML5" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px;"></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3 (Básico)"><img alt="CSS3" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px;"></a>
-</div>
-
-<div align="center" style="margin-bottom: 20px;">
-  <h4 style="margin-bottom: 10px;">Bancos de Dados</h4>
-  <a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin: 10px;"></a>
-  <a href="https://www.sqlite.org/index.html" title="SQLite"><img alt="SQLite" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original-wordmark.svg" style="margin: 10px;"></a>
-  <a href="https://firebase.google.com/" title="Firebase"><img alt="Firebase" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" style="margin: 10px;"></a>
-</div>
-
-<div align="center" style="margin-bottom: 20px;">
-  <h4 style="margin-bottom: 10px;">Cloud, Hospedagem e Painéis</h4>
-  <a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin: 10px;"></a>
-  <a href="https://www.hostinger.com.br/hospedagem-vps" title="Hostinger VPS"><img alt="Hostinger" height="50" src="https://cdn.worldvectorlogo.com/logos/hostinger.svg" style="margin: 10px;"></a>
-  <a href="https://easypanel.io/" title="Easypanel"><img alt="Easypanel" height="50" src="https://cdn.berksmbl.com/easypanel-icon.png" style="margin: 10px;"></a>
-</div>
-
-<div align="center" style="margin-bottom: 20px;">
-  <h4 style="margin-bottom: 10px;">Ferramentas de Desenvolvimento</h4>
-  <a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin: 10px;"></a>
-  <a href="https://git-scm.com/" title="Git"><img alt="Git" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 10px;"></a>
-</div>
+Currently working at **Átomo Serviços e Automação**, developing a recurring billing platform integrated with multiple financial institutions.
 
 ---
 
-### 📊 Minhas Estatísticas no GitHub
+### 🛠️ Stack
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&border_radius=15&custom_title=Estatísticas%20do%20GitHub&hide_border=true&bg_color=30,000000,002c4a" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=3&theme=github_dark&border_radius=15&custom_title=Top%20Linguagens&hide_border=true&bg_color=30,002c4a,000000" />
+
+#### Core
+<a href="https://docs.python.org/3/" title="Python"><img alt="Python" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin:8px"></a>
+<a href="https://fastapi.tiangolo.com/" title="FastAPI"><img alt="FastAPI" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="margin:8px"></a>
+<a href="https://www.djangoproject.com/" title="Django"><img alt="Django" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="margin:8px"></a>
+
+#### Async & Queues
+<a href="https://docs.celeryq.dev/" title="Celery"><img alt="Celery" height="48" src="https://miro.medium.com/1*A6-cIJskwYkBPlQPYripYA.png" style="margin:8px"></a>
+<a href="https://redis.io/" title="Redis"><img alt="Redis" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" style="margin:8px"></a>
+
+#### Databases
+<a href="https://www.mysql.com/" title="MySQL"><img alt="MySQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" style="margin:8px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img alt="PostgreSQL" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="margin:8px"></a>
+<a href="https://mariadb.org/" title="MariaDB"><img alt="MariaDB" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" style="margin:8px"></a>
+
+#### Infrastructure
+<a href="https://www.docker.com/" title="Docker"><img alt="Docker" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="margin:8px"></a>
+<a href="https://aws.amazon.com/" title="AWS"><img alt="AWS" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" style="margin:8px"></a>
+<a href="https://git-scm.com/" title="Git"><img alt="Git" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin:8px"></a>
+
+#### Frontend (supporting)
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript"><img alt="JavaScript" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin:8px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5"><img alt="HTML5" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin:8px"></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3"><img alt="CSS3" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin:8px"></a>
+
+#### Tools & Environment
+<a href="https://code.visualstudio.com/" title="VS Code"><img alt="VS Code" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="margin:8px"></a>
+<a href="https://dbeaver.io/" title="DBeaver"><img alt="DBeaver" height="48" src="https://dbeaver.io/wp-content/uploads/2015/09/beaver-head.png" style="margin:8px"></a>
+<a href="https://github.com/" title="GitHub"><img alt="GitHub" height="48" src="https://images.icon-icons.com/3685/PNG/512/github_logo_icon_229278.png" style="margin:8px"></a>
+<a href="https://openai.com/pt-BR/codex/" title="Codex"><img alt="Codex" height="48" src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/codex-color.png" style="margin:8px"></a>
+
 </div>
 
 ---
 
-### 🚀 Meus Projetos em Destaque
+### 🚀 Production Projects
 
-<table class="table">
-  <thead>
-    <tr>
-      <th class="table-header" style="text-align: left;">📌 Nome</th>
-      <th class="table-header" style="text-align: left;">📄 Descrição</th>
-      <th class="table-header" style="text-align: left;">🔧 Tecnologias Utilizadas</th>
-      <th class="table-header" style="text-align: center;">🔗 Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="table-row">
-      <td class="table-data"><strong>ADJAF Digital</strong></td>
-      <td class="table-data">Website institucional com um sistema de gestão integrado para gerenciamento de conteúdo e funcionalidades específicas.</td>
-      <td class="table-data">Python, Django, HTML, JavaScript (Básico), CSS (Básico), MySQL</td>
-      <td class="table-data" style="text-align: center;"><a href="https://adjaf.com.br/" class="table-link" target="_blank" rel="noopener noreferrer">Ver</a></td>
-    </tr>
-    <tr class="table-row">
-      <td class="table-data"><strong>Projetos Particulares</strong></td>
-      <td class="table-data">Atualmente estou desenvolvendo outros projetos com foco em backend que ainda não são públicos.</td>
-      <td class="table-data">Python, Django, FastAPI, e outras tecnologias conforme a necessidade do projeto.</td>
-      <td class="table-data" style="text-align: center;"><em>Privado</em></td>
-    </tr>
-  </tbody>
-</table>
+| Project | Description | Stack | Link |
+|---|---|---|---|
+| **Átomo Billing Platform** | Recurring billing system integrated with multiple Brazilian financial institutions. Handles subscription charges, async dispatch, webhook processing, and WhatsApp notifications. | FastAPI · MySQL · Celery · Redis · Docker | 🔒 Private |
+| **ADJAF Digital** | Full ERP + institutional portal for a mid-sized organization. Member registry, event management, hybrid attendance validation, role-based access, WhatsApp automation, and operational dashboards. | Django · MySQL · Evolution API | [adjaf.com.br](https://adjaf.com.br) |
 
 ---
 
-### 🌎 Onde me Encontrar
+### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCP3ya8T27U4nDKAsDh_Z7RQ" target="_blank" rel="noopener noreferrer" title="Youtube"><img height="40" src="./scr/tube.svg" alt="Youtube" style="margin: 0 5px;"></a>
-  <a href="https://instagram.com/richard_neri" target="_blank" rel="noopener noreferrer" title="Instagram"><img height="40" src="./scr/gram.svg" alt="Instagram" style="margin: 0 5px;"></a>
-  <a href="https://twitter.com/richard_nerii" target="_blank" rel="noopener noreferrer" title="Twitter"><img height="40" src="./scr/twitter.svg" alt="Twitter" style="margin: 0 5px;"></a>
-  <a href="mailto:richardmatq@gmail.com" title="Email"><img height="40" src="./scr/gmail.svg" alt="Email" style="margin: 0 5px;"></a>
-  <a href="https://www.linkedin.com/in/richardneri" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img height="40" src="./scr/linkedin.svg" alt="LinkedIn" style="margin: 0 5px;"></a>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsnery&show_icons=true&theme=github_dark&include_all_commits=false&count_private=true&border_radius=15&custom_title=GitHub%20Stats&hide_border=true&bg_color=30,000000,002c4a" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsnery&langs_count=3&theme=github_dark&border_radius=15&custom_title=Top%20Languages&hide_border=true&bg_color=30,002c4a,000000" />
 </div>
 
 ---
 
+### 📬 Contact
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsnery&label=Visualizações%20do%20Perfil&color=0e75b6&style=flat" alt="Visualizações"/>
+  <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="margin:0 6px"></a>
+  <a href="mailto:dev.richardneri@outlook.com"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/960px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png" alt="Email" style="margin:0 6px"></a>
+  <a href="https://adjaf.com.br" target="_blank"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" style="margin:0 6px"></a>
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile+Views&color=2D5016&style=flat" alt="Profile Views"/>
 </div>
