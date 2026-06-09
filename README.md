@@ -3,8 +3,8 @@
   <p>Backend Engineer · Python · FastAPI · Django · REST APIs</p>
   <p>
     <a href="https://www.linkedin.com/in/richardneri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-richardneri-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
-    <a href="mailto:dev.richardneri@outlook.com"><img alt="Email" src="https://img.shields.io/badge/Email-dev.richardneri-EA4335?style=flat&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPgogIDxwYXRoIGQ9Ik0xMyAydjhoOEwxMyAyeiIvPgogIDxwYXRoIGQ9Ik0xMiAySDZDNC45IDIgNCAyLjkgNCA0djE2YzAgMS4xLjkgMiAyIDJoMTJjMS4xIDAgMi0uOSAyLTJ2LThoLThWMnptLTMgMTFjMC0xLjY1NyAxLjM0My0zIDMtM3MzIDEuMzQzIDMgMy0xLjM0MyAzLTMgMy0zLTEuMzQzLTMtM3oiLz4KPC9zdmc+Cg==&logoColor=white"></a>
-    <a href="https://adjaf.com.br"><img alt="Live Project" src="https://img.shields.io/badge/Live-adjaf.com.br-2D5016?style=flat&logo=googlechrome&logoColor=white"></a>
+    <a href="mailto:dev.richardneri@outlook.com"><img alt="Oulook" src="https://img.shields.io/badge/Oulook-dev.richardneri-EA4335?style=flat&logo=microsoftoutlook&logoColor=white"></a>
+    <a href="https://adjaf.com.br"><img alt="Live Project" src="https://img.shields.io/badge/Deploy-adjaf.com.br-2D5016?style=flat&logo=Deploy&logoColor=white"></a>
   </p>
 </div>
 
