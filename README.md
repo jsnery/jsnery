@@ -24,7 +24,7 @@ Currently working at **Átomo Serviços e Automação**, developing a recurring 
 <a href="https://docs.python.org/3/" title="Python"><img alt="Python" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin:8px"></a>
 <a href="https://fastapi.tiangolo.com/" title="FastAPI"><img alt="FastAPI" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" style="margin:8px"></a>
 <a href="https://www.djangoproject.com/" title="Django"><img alt="Django" height="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" style="margin:8px"></a>
-<a href="https://flask.palletsprojects.com/en/stable/" title="Flask"><img alt="Flask" height="48" src="https://flask.palletsprojects.com/en/stable/_images/flask-name.svg" style="margin:8px"></a>
+<a href="https://flask.palletsprojects.com/en/stable/" title="Flask"><img alt="Flask" height="48" src="https://cdn.prod.website-files.com/6092ed75cac3156e208ac5e9/670e79c57f3ba05073eba94b_flask.png" style="margin:8px"></a>
 
 #### Async & Queues
 <a href="https://docs.celeryq.dev/" title="Celery"><img alt="Celery" height="48" src="https://miro.medium.com/1*A6-cIJskwYkBPlQPYripYA.png" style="margin:8px"></a>
@@ -66,16 +66,8 @@ Currently working at **Átomo Serviços e Automação**, developing a recurring 
 
 ---
 
-### 📬 Contact
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/richardneri" target="_blank"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" style="margin:0 6px"></a>
-  <a href="mailto:dev.richardneri@outlook.com"><img height="36" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg/960px-Microsoft_Outlook_Icon_%282025%E2%80%93present%29.svg.png" alt="Email" style="margin:0 6px"></a>
-  <a href="https://adjaf.com.br" target="_blank"><img height="36" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" alt="Portfolio" style="margin:0 6px"></a>
-</div>
-
 <br>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=jsnery&label=Profile+Views&color=2D5016&style=flat" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=jsnery&label=Views&color=2D5016&style=flat" alt="Profile Views"/>
 </div>
