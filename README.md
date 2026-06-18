@@ -61,8 +61,8 @@ Currently working at **Átomo Serviços e Automação**, developing a recurring 
 
 | Project | Description | Stack | Link |
 |---|---|---|---|
-| **Átomo Billing Platform** | Recurring billing system integrated with multiple Brazilian financial institutions. Handles subscription charges, async dispatch, webhook processing, and WhatsApp notifications. | FastAPI · MySQL · Celery · Redis · Docker | 🔒 Private |
-| **ADJAF Digital** | Full ERP + institutional portal for a mid-sized organization. Member registry, event management, hybrid attendance validation, role-based access, WhatsApp automation, and operational dashboards. | Django · MySQL · Evolution API | [adjaf.com.br](https://adjaf.com.br) |
+| **Átomo Billing Platform** | Recurring billing system integrated with multiple Brazilian financial institutions. Handles subscription charges, async dispatch, webhook processing, and WhatsApp notifications. | FastAPI · MySQL · Celery · Redis · Docker | [Acessar](https://flux.atomoservicos.com) |
+| **ADJAF Digital** | Full ERP + institutional portal for a mid-sized organization. Member registry, event management, hybrid attendance validation, role-based access, WhatsApp automation, and operational dashboards. | Django · MySQL · Evolution API | [Acessar](https://adjaf.com.br) |
 
 ---
 
