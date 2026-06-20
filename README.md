@@ -4,7 +4,7 @@
   <p>
     <a href="https://www.linkedin.com/in/richardneri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-richardneri-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
     <a href="mailto:dev.richardneri@outlook.com"><img alt="Oulook" src="https://img.shields.io/badge/Oulook-dev.richardneri-EA4335?style=flat&logo=microsoftoutlook&logoColor=white"></a>
-    <a href="https://adjaf.com.br"><img alt="Live Project" src="https://img.shields.io/badge/Deploy-adjaf.com.br-2D5016?style=flat&logo=Deploy&logoColor=white"></a>
+    <a href="https://adjaf.com.br"><img alt="Live Project" src="https://img.shields.io/badge/Deploy-richardcode.com.br-2D5016?style=flat&logo=Blog&logoColor=white"></a>
   </p>
 </div>
 
