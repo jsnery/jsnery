@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hey, I'm Matheus Richard 👋</h1>
+  <h1>Hey, I'm Richard Neri👋</h1>
   <p>Backend Engineer · Python · FastAPI · Django · REST APIs</p>
   <p>
     <a href="https://www.linkedin.com/in/richardneri"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-richardneri-0A66C2?style=flat&logo=linkedin&logoColor=white"></a>
